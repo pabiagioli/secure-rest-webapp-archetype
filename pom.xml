@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.pampanet</groupId>
   <artifactId>secure-rest-webapp-archetype</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
   <name>secure-rest-webapp-archetype</name>
   <description>Maven Archetype for building Secure RESTful Web Services Archetype with Apache Shiro 1.2.3, Jersey 1.18.1 and Google Guice 3.0</description>
@@ -10,7 +10,7 @@
     <connection>scm:git:git@github.com:pabiagioli/secure-rest-webapp-archetype.git</connection>
     <developerConnection>scm:git:git@github.com:pabiagioli/secure-rest-webapp-archetype.git</developerConnection>
     <url>scm:git:git@github.com:pabiagioli/secure-rest-webapp-archetype.git</url>
-    <tag>secure-rest-webapp-archetype-0.1.0</tag>
+    <tag>jersey-guice-webapp-archetype-0.1.4</tag>
   </scm>
   <developers>
     <developer>
